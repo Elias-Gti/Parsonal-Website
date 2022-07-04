@@ -54,3 +54,27 @@ color: aliceblue;
     background-image: url(../img/dream-bg.png);
     background-position: right;
 }
+
+/* Exp section  */
+#exp-section{
+    background-image: url(../img/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    
+   
+}
+.exp-div{
+    display: flex;
+}
+.exp-shadow{
+    width: 45%;   
+    padding: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 50px black ;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    border-right:7px solid tomato
+;
+    
+}
